@@ -2,8 +2,7 @@
 Extract data from USCIS visa bulletin - https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html
 
 We started our analysis from US Government Fiscal Year 2016 onwards, and we
-focus on the waiting time for filing an application.  Only EB3 for "All
-Chargeability Areas Except Those Listed" are presented here; more can be added
+focus on the waiting time for filing an application.  Only EB2 for "Mainland China" are presented here; more can be added
 if there's interest in them.
 
 For each bulletin, how many months in the past is the final action date posted
@@ -14,8 +13,8 @@ required to understand this data._
 
 ## Employment-based Preference Classes
 
-### EB3 - All Chargeability Areas Except Those Listed
-![EB3](images/EB3.svg)
+### EB2/3 - Mainland China
+![EB2/3](images/EB2_3.svg)
 
 Remarks:
 * there was an increase from `C` to `01JAN17` in March 2020;
