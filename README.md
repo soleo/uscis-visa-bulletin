@@ -16,6 +16,9 @@ required to understand this data._
 ### EB2/3 - Mainland China
 ![EB2/3](images/EB2_3.svg)
 
+### EB3 - All Chargeability Areas Except Those Listed
+![EB3](images/EB3.svg)
+
 Remarks:
 * there was an increase from `C` to `01JAN17` in March 2020;
 * it looks likes a similar increase happened also in FY2019 Q4 and FY2018 Q4;
