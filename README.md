@@ -21,6 +21,6 @@ required to understand this data._
 
 Remarks:
 * there was an increase from `C` to `01JAN17` in March 2020;
-* it looks likes a similar increase happened also in FY2019 Q4 and FY2018 Q4;
+* it looks like a similar increase happened also in FY2019 Q4 and FY2018 Q4;
 * it's likely that, due to COVID-19 disruption to USCIS operation (USCIS is almost
   completely shut down), this delay is gonna last longer than the past.
