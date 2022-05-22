@@ -15,6 +15,7 @@ required to understand this data._
 
 ### EB2/3 - Mainland China
 ![EB2/3](images/EB2_3.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsoleo%2Fuscis-visa-bulletin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsoleo%2Fuscis-visa-bulletin?ref=badge_shield)
 
 ### EB3 - All Chargeability Areas Except Those Listed
 ![EB3](images/EB3.svg)
@@ -24,3 +25,7 @@ Remarks:
 * it looks like a similar increase happened also in FY2019 Q4 and FY2018 Q4;
 * it's likely that, due to COVID-19 disruption to USCIS operation (USCIS is almost
   completely shut down), this delay is gonna last longer than the past.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsoleo%2Fuscis-visa-bulletin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsoleo%2Fuscis-visa-bulletin?ref=badge_large)
